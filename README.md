@@ -1,4 +1,4 @@
-# 🔬 License Plate Super-Resolution via SVD & Truncated SVD
+# 🔬 Image Super-Resolution via SVD & Truncated SVD
 
 <p align="center">
   <img src="https://img.shields.io/badge/MATLAB-R2020b-orange?style=for-the-badge&logo=mathworks&logoColor=white"/>
