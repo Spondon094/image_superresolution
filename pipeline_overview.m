@@ -65,3 +65,12 @@
 % =========================================================================
 % For full implementation details, contact via LinkedIn or email.
 % =========================================================================
+
+%% PARAMETER DEFINITIONS (reference only)
+scaling_factor = 2;
+threshold = 0.1;
+top_k_singular_values = 20;
+interpolation_method = 'linear';
+[rows, columns] = deal(100, 150);
+n = rows * columns;
+m = round(n / scaling_factor^2);
