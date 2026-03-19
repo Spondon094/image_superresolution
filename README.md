@@ -230,4 +230,4 @@ This project is for **academic and educational purposes only**.
 ## 🔒 Code Availability
 AS this project was completed under academic supervision at FAU Erlangen-Nürnberg.  
 Full source code is available **upon request** — feel free to reach out via
-[LinkedIn]((https://www.linkedin.com/in/spondon-sarker-553544196/)) or write me over the email.
+((https://www.linkedin.com/in/spondon-sarker-553544196/)) or write me over the email.
